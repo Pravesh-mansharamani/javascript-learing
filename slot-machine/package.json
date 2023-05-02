@@ -1,0 +1,22 @@
+{
+  "name": "slot-machine",
+  "version": "1.0.0",
+  "description": "slot machine in javascript",
+  "main": "project.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pravesh-mansharamani/slot-machine.git"
+  },
+  "author": "Pravesh Mansharamani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pravesh-mansharamani/slot-machine/issues"
+  },
+  "homepage": "https://github.com/Pravesh-mansharamani/slot-machine#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
